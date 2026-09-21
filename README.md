@@ -1,13 +1,12 @@
 # jev-screen-mcp
 
 <p align="center">
-  <img src="assets/usage-tokens.png" width="46%" alt="Jev usage — tokens"/>
-  <img src="assets/usage-spend.png" width="46%" alt="Jev usage — spend"/>
+  <img src="assets/usage-spend.png" width="520" alt="Jev cost on OpenRouter"/>
 </p>
 
 > Content-moderation gate as a **single-purpose** MCP tool, powered by **Jev** (TypeSafe's System One decision model). One MCP, one job.
 
-*Real-world Jev usage (OpenRouter): 4.9M tokens · $0.19 over 7 days.*
+*Real-world usage on OpenRouter: **4.9M tokens · $0.19 over 7 days.***
 
 Turns text into a **typed decision** — no prose, no Jev API knowledge needed from the host agent.
 
